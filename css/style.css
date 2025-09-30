@@ -1,0 +1,16 @@
+.white{
+    color: purple;
+}
+
+body{
+    display: flex;
+    background-image: url(../img/weed.gif);
+    background-size: cover;
+    background-position: top center;
+    justify-content: center;
+    align-items: center;
+}
+
+.light_blue{
+    color: aqua;
+}
